@@ -1,4 +1,4 @@
-# MineClone 2
+# MineClone 2 with aggressive dogs (and nice wolves)
 An unofficial Minecraft-like game for Minetest. Forked from MineClone by davedevils.
 Developed by Wuzzy and contributors. Not developed or endorsed by Mojang AB.
 
